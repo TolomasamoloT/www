@@ -18,4 +18,4 @@ This is a simple Markdown-based website.
 print("Hello, Markdown World!")
 ```
 
-[⬅ contact](contact)
+[⬅ contact](contact.md)
