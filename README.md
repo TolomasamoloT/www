@@ -16,3 +16,6 @@ This is a simple Markdown-based website.
 ## Example Code
 ```python
 print("Hello, Markdown World!")
+```
+
+[⬅ contact](contact.md)
