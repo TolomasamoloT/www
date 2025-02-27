@@ -14,6 +14,7 @@ We'd love to hear from you! Feel free to reach out through any of the channels b
 📍 123 Markdown Street, Documentation City, MD 45678  
 
 ## 📅 Business Hours
+
 | Day       | Open  | Close |
 |-----------|-------|-------|
 | Monday    | 9 AM  | 5 PM  |
