@@ -25,4 +25,7 @@ We'd love to hear from you! Feel free to reach out through any of the channels b
 | Saturday  | Closed | Closed |
 | Sunday    | Closed | Closed |
 
+## 🏢 Address
+📍 123 Markdown Street, Documentation City, MD 45678  
+ig this is why we need jecyll ^^
 [⬅ Back to Home](README.md)
