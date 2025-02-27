@@ -24,4 +24,4 @@ We'd love to hear from you! Feel free to reach out through any of the channels b
 | Saturday  | Closed | Closed |
 | Sunday    | Closed | Closed |
 
-[⬅ Back to Home](index.md)
+[⬅ Back to Home](README.md)
