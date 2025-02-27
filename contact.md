@@ -30,7 +30,7 @@ We'd love to hear from you! Feel free to reach out through any of the channels b
 // ig this is why we need jecyll ^^ \
 ig not ... \
 why does it work now ? \
-why? why ? WHY ? \
+why? why ? WHY ?
 
 
 [⬅ Back to Home](README.md)
