@@ -31,6 +31,5 @@ We'd love to hear from you! Feel free to reach out through any of the channels b
 ig not ... \
 why does it work now ? \
 why? why ? WHY ?
-
-
+## WHY ?
 [⬅ Back to Home](README.md)
