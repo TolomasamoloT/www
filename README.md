@@ -19,3 +19,4 @@ print("Hello, Markdown World!")
 ```
 
 [⬅ contact](contact.md)
+[⬅ chess](chess.md)
