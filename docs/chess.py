@@ -1,26 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
+from duckduckgo_search import DDGS
+
+ddgs = DDGS()
 
 url = "https://www.thechesswebsite.com/chess-openings/"
 response = requests.get(url)
 
 soup = BeautifulSoup(response.content, 'html.parser')
-#
-# table = soup.find('div', id='cb-container')
-# rows = table.find_all('tr')
-
-# table = soup.find('/html/body/div[2]/section/div/div/div/div[3]/div')
-#
-# print(table)
-
 
 table = soup.select_one("body > div:nth-of-type(2) > section > div > div > div > div:nth-of-type(3) > div")
-# print(table)
-
-# /html/body/div[2]/section/div/div/div/div[3]/div
-
-# print("\n\n\n ok \n\n\n")
-
 
 all_As = table.find_all("a")
 
@@ -39,38 +28,6 @@ for a in all_As:
     imgs.append(image_src)
     names.append(title)
 
-    # print("=========================================")
-    #
-    #
-    # print(link)
-    # print(image_src)
-    # imgs.append(image_src)
-    # print(title)
-    # names.append(title)
-    #
-    # # Check if <span> exists inside the <a> tag
-    # if a.find("span"):
-    #     print("This link has a MEMBERS ONLY tag.")
-    # else:
-    #     print("This link is public.")
-    #
-    # print("========================================= \n")
-
-# def write_row(src, start, f):
-#     for i in range(4):
-#         if start + i < len(src):
-#             if src == imgs:
-#                 f.write(f'| ![failed to load image]({src[start + i]})')
-#             else:
-#                 f.write('|' + src[start + i])
-#         else:
-#             f.write('|')
-#     f.write('|\n')
-
-
-from duckduckgo_search import DDGS
-
-ddgs = DDGS()
 
 def opening(op_name):
     with open(f"{op_name.replace(' ', '-')}.md", "w", encoding="utf-8") as file:
@@ -84,14 +41,12 @@ def opening(op_name):
             snippet = result.get("body", "No description")
 
             file.write(f"- ## **{page_title}** \n")
-            file.write("\n---\n")
             file.write(f"### Desc: \n {snippet} \n")
             file.write(f"### Read more : [here]({href}) \n")
 
 
         file.write("\n\n")
         file.write("[← Back to the list](chess-openings.md)")
-
 
 
 def write_op(src_img, src_nam, start, f):
@@ -104,21 +59,11 @@ def write_op(src_img, src_nam, start, f):
         f.write(src_nam[start].replace(" ", "-"))
         f.write(".md) \n")
 
-        f.write("\n\n --- \n\n")
-
-        f.write("[![failed to load photo](")
+        f.write("![failed to load photo](")
         f.write(src_img[start])
-        f.write(")](")
-        f.write(src_nam[start].replace(" ", "-"))
-        f.write(".md) \n")
-        f.write('\n')
+        f.write(")\n\n")
 
         print("done ", start)
-
-
-from pathlib import Path
-
-
 
 
 def to_md():
@@ -136,7 +81,6 @@ def to_md():
 def make_README():
     with open("README.md", "w", encoding="utf-8") as file:
         file.write("# Chess Openings\n")
-        file.write("\n---\n")
 
         result = DDGS().chat("Explain what a chess opening is and its importance in chess")
 
