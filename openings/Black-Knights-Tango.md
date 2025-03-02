@@ -11,12 +11,12 @@
 ### Desc: 
  Indian Game: Black Knights' Tango 1.d4 Nf6 2.c4 Nc6. Top Players 
 ### Read more : https://www.chess.com/openings/Indian-Game-Black-Knights-Tango 
-- ## **The Black Knights' Tango - Chess Openings Explained** 
+- ## **Learn The Indian Defenses And The Black Knights' Tango** 
 
 ---
 ### Desc: 
- Jonathan Schrantz invites you to let your Knights dance out early into an unusual opening, the Black Knights' Tango. Although uncommon, it can be soundly played. 2016.02.22 Hubert Beneteau vs. Marius Manolache, 2006: A50 Kevitz-Trajkovich defence H Spiller vs Georgy Orlov, It (open) (1991): A50 Kevitz-Trajkovich defence 
-### Read more : https://commonwealth-chess.com/the-black-knights-tango-chess-openings-explained/ 
+ Learn the key ideas behind the Indian Defenses against 1.d4, with a focus on the Black Knights' Tango, a rare and sharp response variation. Learns the main lines of the Black Knights' Tango. Practice thematic tactics. Find the moves in a powerful game by FM Filip Dowgird. 
+### Read more : https://www.chess.com/lessons/learn-the-indian-defenses-and-the-black-knights-tango 
 
 
 [← Back to the list](../chess-openings.md)
