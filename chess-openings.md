@@ -8,3 +8,24 @@
 |[<img src="https://www.thechesswebsite.com/wp-content/uploads/2013/07/baltic-featured.jpg" alt="failed to load image" width="320"><br>Baltic Defense](openings/Baltic-Defense.md)|[<img src="https://www.thechesswebsite.com/wp-content/uploads/2017/07/belgrade-gambit.jpg" alt="failed to load image" width="320"><br>Belgrade Gambit](openings/Belgrade-Gambit.md)|[<img src="https://www.thechesswebsite.com/wp-content/uploads/2015/08/the-benoni-defense.jpg" alt="failed to load image" width="320"><br>Benoni Defense](openings/Benoni-Defense.md)|[<img src="https://www.thechesswebsite.com/wp-content/uploads/2015/08/the-birds-opening.jpg" alt="failed to load image" width="320"><br>Bird’s Opening](openings/Bird’s-Opening.md)|
 |[<img src="https://www.thechesswebsite.com/wp-content/uploads/2021/05/bishops-chess-opening.png" alt="failed to load image" width="320"><br>Bishop’s Opening](openings/Bishop’s-Opening.md)|[<img src="https://www.thechesswebsite.com/wp-content/uploads/2014/06/black-knights-tango-big.jpg" alt="failed to load image" width="320"><br>Black Knights Tango](openings/Black-Knights-Tango.md)|[<img src="https://www.thechesswebsite.com/wp-content/uploads/2012/07/blackmar_big.jpg" alt="failed to load image" width="320"><br>Blackmar-Diemer Gambit](openings/Blackmar-Diemer-Gambit.md)|[<img src="https://www.thechesswebsite.com/wp-content/uploads/2019/04/bogo-indian-defense.png" alt="failed to load image" width="320"><br>Bogo Indian Defense](openings/Bogo-Indian-Defense.md)|
 |[<img src="https://www.thechesswebsite.com/wp-content/uploads/2024/03/1-botvinnikmp4-e1718391084902.webp" alt="failed to load image" width="320"><br>Botvinnik English Chess](openings/Botvinnik-English-Chess.md)|[<img src="https://www.thechesswebsite.com/wp-content/uploads/2014/04/bowlder-attack-featured.jpg" alt="failed to load image" width="320"><br>Bowlder Attack](openings/Bowlder-Attack.md)|[<img src="https://www.thechesswebsite.com/wp-content/uploads/2012/07/budapest_big.jpg" alt="failed to load image" width="320"><br>Budapest Gambit](openings/Budapest-Gambit.md)|[<img src="https://www.thechesswebsite.com/wp-content/uploads/2015/08/the-calabrese-countergambit.jpg" alt="failed to load image" width="320"><br>Calabrese Countergambit](openings/Calabrese-Countergambit.md)|
+
+
+
+
+# dgkljhghfkag
+## doghgao;aglgag
+
+<table>
+  <tr>
+    <td>
+      <a href="openings/Adelaide-Counter-Gambit.md">
+        <img src="https://www.thechesswebsite.com/wp-content/uploads/2019/09/adelaide-counter-gambit.png" alt="Adelaide Counter Gambit" width="320"><br>Adelaide Counter Gambit
+      </a>
+    </td>
+    <td>
+      <a href="openings/Albin-Counter-Gambit.md">
+        <img src="https://www.thechesswebsite.com/wp-content/uploads/2012/07/albin2.jpg" alt="Albin Counter-Gambit" width="320"><br>Albin Counter-Gambit
+      </a>
+    </td>
+  </tr>
+</table>
