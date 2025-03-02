@@ -3,20 +3,20 @@
 
 ---
 ### Desc: 
- The Black Knights' Tango (also known as the Mexican Defense, Two Knights' Tango or Kevitz-Trajkovic Defense) is a chess opening beginning with the moves: 1. d4 Nf6 2. c4 Nc6. This position can also be reached by transposition, for example 1.c4 Nf6, 1.d4 Nc6, or 1.c4 Nc6. 
+ The Black Knights' Tango (also known as the Mexican Defense, Two Knights' Tango or Kevitz-Trajkovic Defense) is a chess opening beginning with the moves: 1. d4 Nf6 2. c4 Nc6 This position can also be reached by transposition, for example 1.c4 Nf6, 1.d4 Nc6, or 1.c4 Nc6. 
 ### Read more : [here](https://en.wikipedia.org/wiki/Black_Knights'_Tango) 
-- ## **Indian Game: Black Knights' Tango - Chess Openings** 
+- ## **Indian Game: Black Knights' Tango - Chess.com** 
 
 ---
 ### Desc: 
- Indian Game: Black Knights' Tango 1.d4 Nf6 2.c4 Nc6. Top Players 
+ Learn the Indian Game: Black Knights' Tango with free tools and analysis from Chess.com. Improve your opening repertoire and crush your opponents! 
 ### Read more : [here](https://www.chess.com/openings/Indian-Game-Black-Knights-Tango) 
-- ## **Learn The Indian Defenses And The Black Knights' Tango** 
+- ## **Chess Openings: Learn to Play the Black Knights' Tango!** 
 
 ---
 ### Desc: 
- Learn the key ideas behind the Indian Defenses against 1.d4, with a focus on the Black Knights' Tango, a rare and sharp response variation. Learns the main lines of the Black Knights' Tango. Practice thematic tactics. Find the moves in a powerful game by FM Filip Dowgird. 
-### Read more : [here](https://www.chess.com/lessons/learn-the-indian-defenses-and-the-black-knights-tango) 
+ The Black Knights' Tango is a great chess opening for chess beginners, and a good chess opening for intermediate players as well. 
+### Read more : [here](https://www.youtube.com/watch?v=kbCN8Bw_Vf4) 
 
 
 [← Back to the list](../chess-openings.md)

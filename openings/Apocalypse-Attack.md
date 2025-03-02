@@ -11,12 +11,12 @@
 ### Desc: 
  The Apocalypse Attack is a bold, aggressive line against the Caro-Kann Defense, offering White exciting tactical possibilities at the expense of some risk. While not as theoretically robust as the main lines, it provides a psychological edge and can lead to quick victories against unprepared opponents. For the adventurous player seeking to ... 
 ### Read more : [here](https://chessklub.com/apocalypse-attack/) 
-- ## **Apocalypse Attack - Caro-Kann - Opening Theory - Blogger** 
+- ## **Caro-Kann Defence - Wikipedia** 
 
 ---
 ### Desc: 
- Apocalypse Attack - GM Maria Petrov (Opening Guide) - unique article on the Apocalypse Attack, where Grandmaster Marian Petrov's expert review sets it apart from the rest. It's not just another strategy guide; it's a deep dive into transforming your approach to the Caro-Kann Defense, complete with practical play tips. ... 
-### Read more : [here](https://bishopsbounty.blogspot.com/2024/04/apocalypse-attack-caro-kann.html) 
+ The Caro-Kann Defence is a chess opening characterised by the moves: . 1. e4 c6. The Caro-Kann is a common defence against 1.e4.It is classified as a Semi-Open Game, like the Sicilian Defence and French Defence, although it is thought to be more solid and less dynamic than either of those openings.It often leads to good endgames for Black, who has the better pawn structure. 
+### Read more : [here](https://en.wikipedia.org/wiki/Caro–Kann_Defence) 
 
 
 [← Back to the list](../chess-openings.md)
