@@ -19,3 +19,5 @@ A chess opening refers to the initial phase of a chess game, typically encompass
 Overall, a good opening can provide a player with a strong foundation for the rest of the game, while a poor opening can lead to difficulties and disadvantages later on. Many players study specific openings and their variations to gain an edge in their games. <br>
 
 [→ Go to Chess Openings List](chess-openings.md)
+
+[auto chess](tft.html)
